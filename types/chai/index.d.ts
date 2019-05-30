@@ -183,6 +183,7 @@ declare namespace Chai {
         equals: Equal;
         eq: Equal;
         include: Include;
+        contain: Include;
         property: Property;
         members: Members;
         ordered: Ordered;
